@@ -11,8 +11,4 @@ class DemoBotApplication
 fun main(args: Array<String>) {
     runApplication<DemoBotApplication>(*args)
 
-//    try {
-//        val botsApi = TelegramBotsApi(DefaultBotSession::class.java)
-////        botsApi.registerBot(SupportBot())
-//    }cat
 }
